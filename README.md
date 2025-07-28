@@ -52,6 +52,6 @@
 ## 🔗 Links
 <p align="left">
 <a href="https://www.instagram.com/mani_abbu_mano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mani_abbu_mano" height="30" width="40" /> 
-<a href="www.linkedin.com/in/mani-kandan-2aa6402a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mani-kandan" height="30" width="40" />  
+<a href="https://www.linkedin.com/in/mani-kandan-2aa6402a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mani-kandan" height="30" width="40" />  
 <a href="https://x.com/Manikandan52115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Manikandan52115" height="30" width="40" /> 
 </p>
