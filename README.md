@@ -32,6 +32,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ## ⚙ Programming & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,6 +49,9 @@
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/gcp-%23007ACC.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+## 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Manikandan1511&show_icons=true&theme=algolia" />
 
 ## 🔗 Links
 <p align="left">
