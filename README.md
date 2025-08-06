@@ -7,7 +7,7 @@
 - 🧠 I'm currently learning **Server Tools**
 - 📫 How to reach me **manikandanmk15112005@gmail.com**
 
-## 👩‍💻 Frontend Development
+## 👨🏻‍💻 Frontend Development
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,7 +23,7 @@
 ![Lucide React](https://img.shields.io/badge/Lucide%20React-0A0A0A?logo=react&logoColor=61DAFB)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white)
 
-## 👩‍💻 Backend Development
+## 👨🏻‍💻 Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -52,6 +52,9 @@
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Manikandan1511&show_icons=true&theme=algolia" />
+
+## 🚀 My Portfolio
+[![Manikandan's Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://my-portfolio-flax-three-22.vercel.app/)
 
 ## 🔗 Links
 <p align="left">
