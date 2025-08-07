@@ -7,6 +7,9 @@
 - 🧠 I'm currently learning **Server Tools**
 - 📫 How to reach me **manikandanmk15112005@gmail.com**
 
+## 🚀 My Portfolio
+[![Manikandan's Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://my-portfolio-flax-three-22.vercel.app/)
+
 ## 👨🏻‍💻 Frontend Development
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,9 +55,6 @@
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Manikandan1511&show_icons=true&theme=algolia" />
-
-## 🚀 My Portfolio
-[![Manikandan's Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://my-portfolio-flax-three-22.vercel.app/)
 
 ## 🔗 Links
 <p align="left">
